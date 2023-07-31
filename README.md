@@ -1,2 +1,2 @@
 # xeny.uk
-xeny website with the scripts deobfuscated xdlol 
+i forgor and i thing i have some files i need to decode idk
